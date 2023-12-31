@@ -1,0 +1,6 @@
+id:1, name:'SV01', dateOfBirth:'2003-10-02', address:'FPT', height:55.5, weight:55.5, code:'1234567890', school:'Ha Noi', startYear:7777, average:8.0, rankEnum:'GOOD'}
+id:2, name:'SV02', dateOfBirth:'2003-10-02', address:'FPT', height:55.5, weight:55.5, code:'1234567899', school:'Ha Noi', startYear:7777, average:3.0, rankEnum:'WEAK'}
+id:3, name:'SV03', dateOfBirth:'2003-10-02', address:'FPT', height:55.5, weight:55.5, code:'1234567898', school:'Ha Noi', startYear:7777, average:8.0, rankEnum:'GOOD'}
+id:4, name:'SV04', dateOfBirth:'2003-10-02', address:'FPT', height:55.5, weight:55.5, code:'1234567897', school:'Ha Noi', startYear:7777, average:6.0, rankEnum:'AVERAGE'}
+id:5, name:'SV05', dateOfBirth:'2003-10-02', address:'FPT', height:55.5, weight:55.5, code:'1234567896', school:'Ha Noi', startYear:7777, average:6.0, rankEnum:'AVERAGE'}
+id:6, name:'SV05', dateOfBirth:'2003-10-02', address:'FPT', height:55.5, weight:55.5, code:'1234567895', school:'Ha Noi', startYear:7777, average:7.0, rankEnum:'RATHER'}
